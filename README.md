@@ -73,5 +73,3 @@ From the overlay you can:
 This allows rapid testing of different story routes without replaying the entire scene.
 
 ---
-
-## Structure
